@@ -1,0 +1,14 @@
+[
+  {
+    "Numero": -1,
+    "Empresa": "Desconocida",
+    "Fecha": "0/0/0",
+    "Rif": "null",
+    "Direccion": "Desconocida",
+    "Correo": "null",
+    "Compras": [],
+    "Cliente": null,
+    "Total": -1.0,
+    "Impuesto": -1.0
+  }
+]

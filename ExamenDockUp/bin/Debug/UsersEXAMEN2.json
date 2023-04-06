@@ -1,0 +1,18 @@
+[
+  {
+    "NombreUsuario": "a",
+    "Nombre": "Desconocido",
+    "Apellido": "Desconocido",
+    "Cedula": "No Asignada",
+    "Clave": "a",
+    "Cargo": "Administrador"
+  },
+  {
+    "NombreUsuario": "No Asignada",
+    "Nombre": "Vendedor1",
+    "Apellido": "Vendedor1",
+    "Cedula": "No Asignada",
+    "Clave": "No Asignada",
+    "Cargo": "Empleado"
+  }
+]
